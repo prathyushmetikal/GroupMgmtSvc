@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|c:\\users\\prathyush.metikal\\downloads\\groupmanagementapi\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|c:\\users\\prathyush.metikal\\downloads\\groupmanagementapi\\models\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|solutionrelative:models\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|c:\\users\\prathyush.metikal\\downloads\\groupmanagementapi\\models\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|solutionrelative:models\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|c:\\users\\prathyush.metikal\\downloads\\groupmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|c:\\users\\prathyush.metikal\\downloads\\groupmanagementapi\\lambdaentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|solutionrelative:lambdaentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|c:\\users\\prathyush.metikal\\downloads\\groupmanagementapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|c:\\users\\prathyush.metikal\\downloads\\groupmanagementapi\\models\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6ABF51-32D0-3F59-50C3-07A6B862CDF4}|GroupManagementApi.csproj|solutionrelative:models\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LambdaEntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\LambdaEntryPoint.cs",
+              "RelativeDocumentMoniker": "LambdaEntryPoint.cs",
+              "ToolTip": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\LambdaEntryPoint.cs",
+              "RelativeToolTip": "LambdaEntryPoint.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T06:22:30.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Models\\MemberDto.cs",
+              "RelativeDocumentMoniker": "Models\\MemberDto.cs",
+              "ToolTip": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Models\\MemberDto.cs",
+              "RelativeToolTip": "Models\\MemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:21:35.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T04:58:18.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Models\\GroupService.cs",
+              "RelativeDocumentMoniker": "Models\\GroupService.cs",
+              "ToolTip": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Models\\GroupService.cs",
+              "RelativeToolTip": "Models\\GroupService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv5QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T04:57:08.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Models\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Models\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Models\\IGroupService.cs",
+              "RelativeToolTip": "Models\\IGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T04:56:54.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T04:54:00.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\prathyush.metikal\\Downloads\\GroupManagementApi\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T04:32:35.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

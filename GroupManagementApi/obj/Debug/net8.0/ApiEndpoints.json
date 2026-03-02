@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GroupManagementApi.Controllers.GroupsController",
+    "Method": "CreateGroup",
+    "RelativePath": "api/groups",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GroupManagementApi.Models.GroupCreateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
